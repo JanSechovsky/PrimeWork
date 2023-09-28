@@ -1,0 +1,3 @@
+[submodule "PrimeWork"]
+	path = PrimeWork
+	url = https://github.com/JanSechovsky/PrimeWork.git
